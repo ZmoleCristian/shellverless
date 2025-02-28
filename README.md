@@ -63,4 +63,6 @@ cd httshell
 
 ## License
 
-MIT License
+[BSD 3-Clause License](LICENSE)
+
+Copyright (c) 2025, Zmole Cristian
